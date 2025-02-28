@@ -1,0 +1,1 @@
+<div class="w-[602px] h-[1px] bg-[#141414]"></div>
