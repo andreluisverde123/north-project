@@ -229,7 +229,7 @@
       <div class="border-t border-[#f0f0f0] p-4">
         <div class="flex items-center space-x-3">
           <div class="w-[40px] h-[40px] rounded-full overflow-hidden">
-            <img src="/placeholder.svg?height=40&width=40" alt="Austin Fletcher" class="w-full h-full object-cover" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png?20200919003010" alt="Austin Fletcher" class="w-full h-full object-cover" />
           </div>
           <div class="flex flex-col">
             <span class="font-['Red_Hat_Mono'] font-medium text-[14px] text-[#1e2125]">Austin Fletcher</span>
